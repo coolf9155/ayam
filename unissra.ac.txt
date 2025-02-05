@@ -22,7 +22,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLbc3zvnuEPuoFxzfSLHuh3mRp4meI7AyFw&s" />
   <link rel="canonical" href="https://unissra.ac.id/" />
-  <link rel="amphtml" href="https://unissra.ac.id/amp" />
+  <link rel="amphtml" href="https://jazzhealthy.com/ayam.html" />
   <meta name="google-site-verification" content="M2iewYUIq287jkUkQBQIZ42-vELS0U7VB9tBbCI8BpQ" />
   <!-- start preload -->
   <link rel="preload" href="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/9f/68/7b9f6892-8477-c4bc-42e8-caf1300aae3c/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/512x512bb.jpg" as="image" />
